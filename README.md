@@ -4,4 +4,4 @@ Built single page movie website which shows different movie details and reviews 
 
 ## Links
 
-- Live Site URL: [Movie Mania](https://smit202.github.io/single_page_application/)
+- Live Site URL: [Movie Mania](https://smit202.github.io/Single_page_application/)
